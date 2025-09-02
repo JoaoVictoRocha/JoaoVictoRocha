@@ -19,4 +19,4 @@ My name is João Rocha. I'm a Bachelor's student in Computer Engineering.
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictoRocha&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictoRocha&layout=demo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictoRocha&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
